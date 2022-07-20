@@ -1,3 +1,5 @@
+[![npm version](https://img.shields.io/npm/v/gaia-core.svg?style=flat)](https://www.npmjs.com/package/gaia-core)
+
 基于 koa 的 node 服务端框架，规范了路由生成、中间件管理、静态资源解析、模板渲染
 
 ## 安装
